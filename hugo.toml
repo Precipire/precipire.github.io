@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://precipire.github.io/'
 languageCode = 'en-us'
 title = 'Different Hats'
 theme = 'cactus'
@@ -10,7 +10,7 @@ theme = 'cactus'
 [params]
     css = ["css/custom.css"]
     mainSectionTitle = "Posts"
-    colortheme = "dark"
+    colortheme = "classic"
     description = "Hi my name is Cameron (or is it?). I do way too many different things, wear a lot of different hats! From hacking to 3D printing to making games, I do it all! Come have a look."
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
