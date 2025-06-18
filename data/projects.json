@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "name":"Godot-Export-Templater",
+            "url":"https://github.com/Precipire/Godot-Export-Templater",
+            "desc":"An all-in-one tool for making secure and smaller Godot Exports"
+        },
+        {
+            "name":"Frungeon",
+            "url":"https://precipire.itch.io/frungeon",
+            "desc":"A platforming game made for the Frogger Game-Like Jam"
+        },
+        {
+            "name":"Hidden Pixels",
+            "url":"https://precipire.itch.io/hidden-pixels",
+            "desc":"A hidden-object game made for the Low-Rez Game Jam"
+            
+        }
+    ]
+}

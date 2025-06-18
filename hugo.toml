@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'A Spaceship in the Web of Space'
+theme = 'cactus'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+    css = ["css/custom.css"]
+    mainSectionTitle = "Posts"
+    colortheme = "classic"
+    description = "Hi my name is Cameron (or is it?). I do way too many different things. From hacking to 3D printing to making games, I do it all! This is my little ship in space where I can share my work."
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 5
+    showProjectsList = true
+    
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1    
+    [[menu.main]]
+        name = "All posts"
+        url = "/posts"
+        weight = 2    
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/Precipire"
