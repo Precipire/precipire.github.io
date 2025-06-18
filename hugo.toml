@@ -11,7 +11,7 @@ theme = 'cactus'
     css = ["css/custom.css"]
     mainSectionTitle = "Posts"
     colortheme = "classic"
-    description = "Hi my name is Cameron (or is it?). I do way too many different things, wear a lot of different hats! From hacking to 3D printing to making games, I do it all! Come have a look."
+    description = "Hi my name is <span id=\"name\">Cameron</span> <span id=\"s-trig\" style=\"cursor:pointer;\">(or is it?)</span>. I do way too many different things, wear a lot of different hats! From hacking to 3D printing to making games, I do it all! Come have a look."
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
     showProjectsList = true
