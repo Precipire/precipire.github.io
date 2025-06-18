@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'A Spaceship in the Web of Space'
+title = 'A Lot of Different Hats'
 theme = 'cactus'
 
 [caches]
@@ -11,7 +11,7 @@ theme = 'cactus'
     css = ["css/custom.css"]
     mainSectionTitle = "Posts"
     colortheme = "classic"
-    description = "Hi my name is Cameron (or is it?). I do way too many different things. From hacking to 3D printing to making games, I do it all! This is my little ship in space where I can share my work."
+    description = "Hi my name is Cameron (or is it?). I do way too many different things, wear a lot of different hats! From hacking to 3D printing to making games, I do it all! Come have a look."
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
     showProjectsList = true

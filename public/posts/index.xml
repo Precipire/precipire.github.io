@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on A Lot of Different Hats</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome on A Lot of Different Hats</description>
+    <title>Posts on A Lot of Different Hats</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on A Lot of Different Hats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jun 2025 14:14:54 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making Godot More Secure</title>
       <link>http://localhost:1313/posts/making-godot-more-secure/</link>
