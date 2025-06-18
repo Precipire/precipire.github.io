@@ -1,3 +1,0 @@
-# Block everything for all bots
-User-agent: *
-Disallow: /
