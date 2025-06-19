@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Godot has a small problem
-In the world of Godot there is a lot of good to be found. It feels like making games has never been easier to get into. However, there is a big problem with this game engine.
+In the world of Godot there is a lot of good to be found. It feels like making games has never been easier to get into. However, there is a big problem with this game engine. Making a secure build.
 
 ## How do exports actually work?
 Godot is smart when it comes to exporting games. It uses a template system that uses a compiled version of the engine and attaches your project to it in the form of a `.pck` file. So, someone launching your game is similar to you opening your game with the Godot Editor. This has the huge benefit of letting developers build for any platform (even MacOS!!!). The reason this works is because all of the low level compiling is being done by Godot elsewhere. We just download the templates and we can export away.
